@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="wgn" channel-number="973", WGN
-#EXTVLCOPT:http-referrer=https://plus.teleup.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/65.0.3467.48
-https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
-
