@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:0 channel-id="adult-swim-east" tvg-logo="" tvg-chno="", Adult Swim East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:0 channel-id="adult-swim-west" tvg-logo="" tvg-chno="", Adult Swim West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:0 channel-id="cartoo-network-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12131/s12131_h3_aa.png" tvg-chno="", Cartoon Network East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="cartoon-network-west" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12131/s12131_h3_aa.png" tvg-chno="", Cartoon Network West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="cnn" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10142/s10142_h3_aa.png" tvg-chno="", CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="hln" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10145/s10145_h3_aa.png" tvg-chno="", HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="tbs-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11867/s11867_h3_aa.png" tvg-chno="", TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="tbs-west" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11867/s11867_h3_aa.png" tvg-chno="", TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="tnt-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11164/s11164_h3_aa.png" tvg-chno="", TNT East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="tnt-west" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11164/s11164_h3_aa.png" tvg-chno="", TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="trutv-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10153/s10153_h3_aa.png" tvg-chno="", TruTV East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="trutv-west" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10153/s10153_h3_aa.png" tvg-chno="", TruTV West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 channel-id="tcm-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12852/s12852_h3_aa.png" tvg-chno="", TCM East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
