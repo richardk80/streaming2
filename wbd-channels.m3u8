@@ -6,7 +6,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_
 #EXTINF:0 channel-id="adult-swim-west" tvg-logo="" tvg-chno="", Adult Swim West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:0 channel-id="cartoo-network-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12131/s12131_h3_aa.png" tvg-chno="", Cartoon Network East
+#EXTINF:0 channel-id="cartoon-network-east" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12131/s12131_h3_aa.png" tvg-chno="", Cartoon Network East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:0 channel-id="cartoon-network-west" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12131/s12131_h3_aa.png" tvg-chno="", Cartoon Network West
